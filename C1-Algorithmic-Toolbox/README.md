@@ -5,6 +5,7 @@ This online course covers basic algorithmic techniques and ideas for computation
 Links and Appendix
 ========================================================
 Offered by University of California San Diego and HSE University.
+
 Taught by Daniel Kane, Alexander S. Kulikov, Michael Levin, Pavel Pevzner, Neil Rhodes
 
 - Coursera: https://www.coursera.org/home
