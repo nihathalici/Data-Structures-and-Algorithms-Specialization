@@ -16,3 +16,4 @@ Offered by University of California San Diego and HSE University.
 - Coursera: https://www.coursera.org/home
 - Data Structures and Algorithms Specialization: https://www.coursera.org/specializations/data-structures-algorithms
 - MIchigan Online: https://online.umich.edu/
+- HSE: https://www.hse.ru/en/
